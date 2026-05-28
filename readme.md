@@ -7,5 +7,5 @@ This project aims to build a traffic simulation environment for intra-city deliv
 - Model dynamic traffic congestion 
 - Study Dispatch Policies
 - Evaluate routing algorithms
-- Build a future RL compatible environment
+- Build a future RL compatible environment.
 
